@@ -98,7 +98,7 @@ A análise busca:
 
 - [Projeto no Looker Studio](https://lookerstudio.google.com/s/qs6T0kJmgR8)  
 - [Ficha Técnica (Notion)](https://www.notion.so/2858dc77aa2d80d3aeb8d9cb6006b733?pvs=25)
-- [Comandos SQL utilizados na preparação da base]([https://github.com/Ana-Almeida110/laboratoria-proj2_hipoteses/blob/main/preparacao_base.sql) 
-- [Repositório no GitHub]([https://github.com/Ana-Almeida110/laboratoria-proj2_hipoteses.git) 
+- [Comandos SQL utilizados na preparação da base](https://github.com/Ana-Almeida110/laboratoria-proj3-analise_risco/blob/main/preparacao_base.sql)
+- [Repositório no GitHub](https://github.com/Ana-Almeida110/laboratoria-proj3-analise_risco.git) 
 - [Apresentação (Loom)](https://www.loom.com/share/18aae5c769d744f195b42016546dbd54?sid=23ef9201-f091-4837-ada1-4db1ad353ff9)
 - [Apresentação (Slides)](https://docs.google.com/presentation/d/1wcZL3PGoHV6FuXbGO_GM0w0fKjaqCaE7/edit?usp=sharing&ouid=112893683117403532765&rtpof=true&sd=true)
