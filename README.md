@@ -20,7 +20,6 @@ A análise busca:
 ---
 
 ## Processamento e Análises
-
 #### Importação dos Dados
 - Criação da base no BigQuery com arquivos `.csv` disponibilizados:
   - `default.csv`
@@ -95,7 +94,6 @@ A análise busca:
 ---
 
 ### Links de Interesse
-
 - [Projeto no Looker Studio](https://lookerstudio.google.com/s/qs6T0kJmgR8)  
 - [Ficha Técnica (Notion)](https://www.notion.so/2858dc77aa2d80d3aeb8d9cb6006b733?pvs=25)
 - [Comandos SQL utilizados na preparação da base](https://github.com/Ana-Almeida110/laboratoria-proj3-analise_risco/blob/main/preparacao_base.sql)
